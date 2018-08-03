@@ -1,1 +1,1 @@
-"# Bitcoin-Price-Prediction-Combining-Data-and-Text-Mining" 
+In this project, we tried to take advantage of the power of Twitter, in order to create a Machine Learning model, which can predict the price of Bitcoin. Also, the algorithms we are going to use, are some of the newest machine learning approaches, and more powerful, than the algorithms which we encounter in the literature.
